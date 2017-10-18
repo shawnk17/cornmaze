@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Nosifer');
+
+body {   
+  background-color: rgb(173, 179, 191);
+text-align:center;
+}
+
+h1 {    
+ color: rgba(226, 11, 11, 0.836);
+ font-size: 50px;
+ font-family:"Nosifer";
+}
+h3{    
+  color: rgba(226, 11, 11, 0.836);
+  font-size: 50px;
+  font-family:"Nosifer";
+ }
+p {
+  font-family: "Nosifer";
+  font-size: 20px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  border:2.7px dotted rgb(21, 77, 8);
+  margin: 30px 40px 55px 80px;
+}
